@@ -1,0 +1,19 @@
+h1 
+{
+color: #2b1111  ;
+background-color: #adbd91;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    color: rgb(115, 89, 194);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#indentificador
+{
+    color: #ffffff;
+}
+.grande{
+    color: #ffffff;
+    background-color: rgb(145, 52, 52);
+}
